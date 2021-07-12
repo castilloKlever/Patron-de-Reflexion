@@ -21,6 +21,6 @@
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">create-drop</property>
 
-        <mapping class="net.osgg.entity.Estudiante" />
+        <mapping class="net.osgg.entity.Provincia" />
     </session-factory>
 </hibernate-configuration>
